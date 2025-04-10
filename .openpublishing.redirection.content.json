@@ -1,7 +1,7 @@
 {
   "redirections": [
     {
-      "source_path": "~/docs-ref-services/legacy/mgmt-agfood-readme.md",
+      "source_path": "docs-ref-services/legacy/mgmt-agfood-readme.md",
       "redirect_url": "/previous-versions/python/api/overview/azure/gmt-agfood-readme",
       "redirect_document_id": true
     },
