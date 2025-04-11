@@ -1,0 +1,294 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-agfood-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-agfood-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/agrifood.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/agrifood?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/applicationinsights-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/applicationinsights-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/application-insights.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/application-insights?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-azureadb2c-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-azureadb2c-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/azure-ad-b2c.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/azure-ad-b2c?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-batchai-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-batchai-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/batch-ai.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/batch-ai?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-anomalydetector-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-anomalydetector-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-knowledge-qnamaker-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-knowledge-qnamaker-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-language-luis-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-language-luis-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-language-spellcheck-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-language-spellcheck-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-language-textanalytics-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-language-textanalytics-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-vision-computervision-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-vision-computervision-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-vision-contentmoderator-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-vision-contentmoderator-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-vision-customvision-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-vision-customvision-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitive-services.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitive-services?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/communication-networktraversal-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/communication-networktraversal-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/communication.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/communication?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cosmos-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cosmos-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cosmos-db.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cosmos-db?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-vision-face-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-vision-face-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/face.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/face?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/graphrbac-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/graphrbac-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/graph-rbac.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/graph-rbac?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/iot-modelsrepository-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/iot-modelsrepository-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/iot.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/iot?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/key-vault.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/key-vault?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/loganalytics-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/loganalytics-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/log-analytics.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/log-analytics?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-logz-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-logz-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/logz.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/logz?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/ai-metricsadvisor-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/ai-metricsadvisor-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/metrics-advisor.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/metrics-advisor?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-networkanalytics-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-networkanalytics-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/network-analytics.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/network-analytics?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-search-newssearch-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-search-newssearch-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/news-search.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/news-search?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/purview-catalog-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/purview-catalog-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/purview.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/purview?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-scheduler-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-scheduler-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/scheduler.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/scheduler?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/stack-edge.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/stack-edge?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/storage-blob-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/storage-blob-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/storage-queue-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/storage-queue-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-storageimportexport-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-storageimportexport-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/storage.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/storage?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/synapse-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/synapse-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/synapse.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/synapse?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-testbase-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-testbase-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/test-base.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/test-base?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/media-videoanalyzer-edge-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/media-videoanalyzer-edge-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/video-analyzer.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/video-analyzer?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/cognitiveservices-search-visualsearch-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/cognitiveservices-search-visualsearch-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/visual-search.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/visual-search?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/mgmt-workloadmonitor-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/mgmt-workloadmonitor-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/workload-monitor.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/workload-monitor?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "docs-ref-services/legacy/common-readme.md",
+      "redirect_url": "/previous-versions/python/api/overview/azure/common-readme?view=azure-python-archive-previous",
+      "redirect_document_id": true
+    }
+  ]
+}
