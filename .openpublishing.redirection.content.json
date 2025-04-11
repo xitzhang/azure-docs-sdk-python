@@ -121,11 +121,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-services/legacy/graph-rbac.md",
-      "redirect_url": "/previous-versions/python/api/overview/azure/graph-rbac?view=azure-python-archive-previous",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "docs-ref-services/legacy/iot-modelsrepository-readme.md",
       "redirect_url": "/previous-versions/python/api/overview/azure/iot-modelsrepository-readme?view=azure-python-archive-previous",
       "redirect_document_id": true
