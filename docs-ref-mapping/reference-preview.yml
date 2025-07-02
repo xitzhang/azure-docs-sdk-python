@@ -12,7 +12,7 @@
         href: ~/docs-ref-services/preview/mgmt-advisor-readme.md
         children:
         - azure.mgmt.advisor
-  - name: AgriFood
+  - name: Agrifood
     href: ~/docs-ref-services/preview/agrifood.md
     landingPageType: Service
     items:
@@ -238,6 +238,16 @@
         href: ~/docs-ref-services/preview/mgmt-chaos-readme.md
         children:
         - azure.mgmt.chaos
+  - name: Cloudhealth
+    href: ~/docs-ref-services/preview/cloudhealth.md
+    landingPageType: Service
+    items:
+    - name: Management
+      items:
+      - name: Resource Management - Cloudhealth
+        href: ~/docs-ref-services/preview/mgmt-cloudhealth-readme.md
+        children:
+        - azure.mgmt.cloudhealth
   - name: Cognitive Services
     href: ~/docs-ref-services/preview/cognitive-services.md
     landingPageType: Service
@@ -484,6 +494,16 @@
         href: ~/docs-ref-services/preview/mgmt-containerservicefleet-readme.md
         children:
         - azure.mgmt.containerservicefleet
+  - name: Containerservicesafeguards
+    href: ~/docs-ref-services/preview/containerservicesafeguards.md
+    landingPageType: Service
+    items:
+    - name: Management
+      items:
+      - name: Resource Management - Containerservicesafeguards
+        href: ~/docs-ref-services/preview/mgmt-containerservicesafeguards-readme.md
+        children:
+        - azure.mgmt.containerservicesafeguards
   - name: Content Delivery Network
     href: ~/docs-ref-services/preview/content-delivery-network.md
     landingPageType: Service
@@ -1174,6 +1194,10 @@
     href: ~/docs-ref-services/preview/machine-learning.md
     landingPageType: Service
     items:
+    - name: Machine Learning
+      href: ~/docs-ref-services/preview/ai-ml-readme.md
+      children:
+      - azure.ai.ml
     - name: Management
       items:
       - name: Resource Management - Machine Learning Compute
@@ -1389,9 +1413,9 @@
     - name: Management
       items:
       - name: Resource Management - Network Analytics (deprecated)
+        href: ~/docs-ref-services/preview/mgmt-networkanalytics-readme.md
         children:
         - azure.mgmt.networkanalytics
-        landingPageType: Service
   - name: Network Function
     href: ~/docs-ref-services/preview/network-function.md
     landingPageType: Service
