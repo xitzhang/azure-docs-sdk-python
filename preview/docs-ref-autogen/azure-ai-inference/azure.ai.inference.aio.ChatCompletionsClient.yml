@@ -248,7 +248,7 @@ methods:
       User and
 
       Assistant roles. Required.'
-    defaultValue: <object object at 0x000001AB4E9DDBB0>
+    defaultValue: <object object at 0x00000274F509F9C0>
     types:
     - <xref:list>[<xref:azure.ai.inference.models.ChatRequestMessage>]
   - name: stream
