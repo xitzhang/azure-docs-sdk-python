@@ -187,7 +187,7 @@ methods:
   keywordOnlyParameters:
   - name: session_image_id
     description: Id of session image. Required.
-    defaultValue: <object object at 0x00000192F6596620>
+    defaultValue: <object object at 0x00000276C54B6610>
     types:
     - <xref:str>
   - name: detection_model
