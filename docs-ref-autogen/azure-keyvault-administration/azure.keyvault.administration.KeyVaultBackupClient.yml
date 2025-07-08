@@ -52,7 +52,7 @@ methods:
     description: 'URL of the blob storage container in which the backup will be stored,
       for example
 
-      [https:/](https:/)/<account>.blob.core.windows.net/backup.'
+      `https://<account>.blob.core.windows.net/backup`.'
     isRequired: true
     types:
     - <xref:str>
